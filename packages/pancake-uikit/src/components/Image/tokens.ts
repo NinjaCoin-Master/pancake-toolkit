@@ -11,6 +11,15 @@ const tokens = {
     decimals: 18,
     projectLink: "https://pancakeswap.finance/",
   },
+  {
+    symbol: "NINJA",
+    address: {
+      56: "0xcA52cBc6bCaCD69b2ec61F46F4Fe2bCA8Ecd73D5",
+      97: "",
+    },
+    decimals: 8,
+    projectLink: "https://ninjacoin.org/",
+  },
   txl: {
     symbol: "TXL",
     address: {
